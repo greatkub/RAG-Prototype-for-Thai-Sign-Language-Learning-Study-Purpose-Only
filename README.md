@@ -1,8 +1,8 @@
 # RAG-Prototype-for-Thai-Sign-Language-Learning-Study-Purpose-Only
 
-## Demo
+## 🎬 Demo
 
-[![Watch the video][https://www.youtube.com/watch?v=ep0ukFvkrgQ](https://www.youtube.com/watch?v=ep0ukFvkrgQ)
+[![Watch the video](https://img.youtube.com/vi/ep0ukFvkrgQ/0.jpg)](https://youtu.be/ep0ukFvkrgQ)
 
 This video demonstrates a prototype of a Retrieval-Augmented Generation (RAG) system that integrates Thai Sign Language (TSL) content for educational purposes.
 
