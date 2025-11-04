@@ -2,11 +2,7 @@
 
 ## Demo
 
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=pMdH1wEH73k">
-    <img src="[https://www.youtube.com/watch?v=ep0ukFvkrgQ](https://www.youtube.com/watch?v=ep0ukFvkrgQ)"/>
-  </a>
-</div>
+[![Watch the video][https://www.youtube.com/watch?v=ep0ukFvkrgQ](https://www.youtube.com/watch?v=ep0ukFvkrgQ)
 
 This video demonstrates a prototype of a Retrieval-Augmented Generation (RAG) system that integrates Thai Sign Language (TSL) content for educational purposes.
 
